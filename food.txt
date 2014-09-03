@@ -1,4 +1,8 @@
 1 - Lasagne
+<<<<<<< HEAD
 2 - Pizza Hawaii
+=======
+2 - Pizza Tonno
+>>>>>>> 5b9a1e2b1ffff90a5ab1f73b917536a7894627e2
 3 - Schnitzel mit Pommes
 4 - Suppe mit Würstchen
